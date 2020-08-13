@@ -20,12 +20,12 @@ export function getExtensionPath(): string {
 export async function activate(context: vscode.ExtensionContext): Promise<{ initializationFinished: Promise<void> }> {
 	extensionPath = context.extensionPath;
 
-	const extensionId = 'lextudio.restructuredtext';
+	const extensionId = 'lextudio.ansic';
 	const extension = vscode.extensions.getExtension(extensionId);
 	util.setExtensionPath(context.extensionPath);
 
 	const logger = new Logger();
-	logger.log('Please visit https://docs.restructuredtext.net to learn how to configure the extension.');
+	logger.log('Please visit https://github.com/lextm/vscode-ansic to learn how to configure the extension.');
 
 	const disableLsp = !platformIsSupported(logger);// TODO: || Configuration.getLanguageServerDisabled();
 	// *

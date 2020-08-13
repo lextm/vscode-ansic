@@ -22,7 +22,7 @@ export class ExtensionDownloader
     }
 
     public installRuntimeDependencies(): Promise<boolean> {
-        this.logger.log('Installing reStructuredText dependencies...');
+        this.logger.log('Installing ANSI C dependencies...');
         this.logger.show();
 
         let statusItem = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right);
