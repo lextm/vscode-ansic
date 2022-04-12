@@ -85,8 +85,8 @@
   "runtimeDependencies": [
     {
       "description": "ANSI C Language Server for Windows (x86)",
-      "url": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/win32_x86.zip",
-      "fallbackUrl": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/win32_x86.zip",
+      "url": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/win32_x86.zip",
+      "fallbackUrl": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/win32_x86.zip",
       "installPath": ".lsp",
       "platforms": [
         "win32"
@@ -98,8 +98,8 @@
     },
     {
       "description": "ANSI C Language Server for Windows (x64)",
-      "url": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/win32_x64.zip",
-      "fallbackUrl": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/win32_x64.zip",
+      "url": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/win32_x64.zip",
+      "fallbackUrl": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/win32_x64.zip",
       "installPath": ".lsp",
       "platforms": [
         "win32"
@@ -111,8 +111,8 @@
     },
     {
       "description": "ANSI C Language Server for macOS (x64)",
-      "url": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/darwin_x64.zip",
-      "fallbackUrl": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/darwin_x64.zip",
+      "url": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/darwin_x64.zip",
+      "fallbackUrl": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/darwin_x64.zip",
       "installPath": ".lsp",
       "platforms": [
         "darwin"
@@ -124,8 +124,8 @@
     },
     {
       "description": "ANSI C Language Server for Linux (x64)",
-      "url": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/linux_x64.zip",
-      "fallbackUrl": "https://github.com/lextm/ansic-antlr/releases/download/v1.0.1/linux_x64.zip",
+      "url": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/linux_x64.zip",
+      "fallbackUrl": "https://github.com/lextm/ansi-c-antlr/releases/download/v1.0.1/linux_x64.zip",
       "installPath": ".lsp",
       "platforms": [
         "linux"
